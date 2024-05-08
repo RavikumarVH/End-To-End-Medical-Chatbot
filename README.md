@@ -19,3 +19,7 @@
 ``` bash
 pip install -r requirements.txt
 ```
+
+``` bash
+all-MiniLM-L6-v2 model using embedding. 
+```
