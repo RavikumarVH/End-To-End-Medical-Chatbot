@@ -1,6 +1,9 @@
 ctransformers==0.2.5
 sentence-transformers==2.2.2
-pinecone-client
+pinecone-client==2.2.4
 langchain
 flask
 python-dotenv
+pypdf
+langchain_chroma
+-e .
